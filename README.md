@@ -17,14 +17,7 @@ These links always point to the latest version. Older versions are on the [Relea
 
 ### macOS
 
-The app isn't notarized yet, so macOS says it's damaged after downloading it.
-
-1. Open `ShortCuta.dmg` and drag ShortCuta into Applications.
-2. Run this once in Terminal:
-
-   ```sh
-   xattr -cr /Applications/ShortCuta.app
-   ```
+Open `ShortCuta.dmg` and drag ShortCuta into Applications.
 
 ### Windows
 
